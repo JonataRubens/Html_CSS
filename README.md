@@ -1,2 +1,2 @@
 # firsts-sites
-Primeiros sites, By Jonata
+Primeiros sites
